@@ -1,5 +1,7 @@
 ## react setup with tailwin
 
+npm create vite@latest my-react-app -- --template react (use command only)
+
 ## frontend setup
 
 install theme
